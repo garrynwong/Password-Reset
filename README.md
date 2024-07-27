@@ -19,12 +19,21 @@ Project consists of resetting passwords of users on Active Directory.
 
 <p align="center">
 Launch Active Directory Users and Computers: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+
+https://github.com/user-attachments/assets/37d7e80f-d206-420c-aa8a-891fb0227bf5
+
+
 <br />
-<br />
+<p align="center">
 Right Click User:<br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
+
+
+https://github.com/user-attachments/assets/1f2f9ca8-d51a-46b8-8b19-959ff4e06c96
+
+
+
 <br />
 </p>
 
