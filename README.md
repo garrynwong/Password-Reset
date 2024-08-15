@@ -13,7 +13,7 @@ Project consists of resetting passwords of users on Active Directory.
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2019</b>
+- <b>Windows Server 2022</b>
 
 <h2>Program walk-through:</h2>
 
