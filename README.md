@@ -18,19 +18,34 @@ Project consists of resetting passwords of users on Active Directory.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch Active Directory Users and Computers: <br/>
+press the start menu -> open Windows Administrative Tools -> launch Active Directory Users and Computers: <br/>
  
 
-https://github.com/user-attachments/assets/37d7e80f-d206-420c-aa8a-891fb0227bf5
+
+
+
+
+https://github.com/user-attachments/assets/c3780b2d-b870-43a4-863b-a6a12ab841aa
+
+
+
+
 
 
 <br />
 <p align="center">
-Right Click User:<br/>
+Find the location of the user in your domain -> right click user -> reset password:<br/>
 
 
 
-https://github.com/user-attachments/assets/1f2f9ca8-d51a-46b8-8b19-959ff4e06c96
+
+
+
+https://github.com/user-attachments/assets/76aeb155-99ab-4696-9ef3-185d66763f4a
+
+
+
+
 
 
 
