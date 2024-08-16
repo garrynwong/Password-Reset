@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Project consists of resetting passwords of users on Active Directory.
+Project consists of searching for users and resetting passwords of the desired users on Active Directory.
 <br />
 
 
