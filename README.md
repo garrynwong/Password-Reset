@@ -1,6 +1,6 @@
 <h1>Password Reset</h1>
 
- ### [ ]()
+
 
 <h2>Description</h2>
 Project consists of resetting passwords of users on Active Directory.
