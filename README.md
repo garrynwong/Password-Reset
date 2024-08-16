@@ -39,6 +39,9 @@ Find the location of the user in your domain -> right click user -> reset passwo
 ____
 
 
+You can also use the search function if you aren't sure which OU the user is in; click the action tab -> click find....
+
+
 
 ![Part 2B](https://github.com/user-attachments/assets/d01a5af4-0b6c-4648-9485-d756101227d1)
 
@@ -46,6 +49,9 @@ ____
 
 
 ____
+
+
+in the second dropdown for location, you can select either an OU or domain name; enter the name of the user
 
 
 
@@ -57,6 +63,8 @@ ____
 
 
 
+then click find now; from the search results, right click the user -> reset password
+
 
 ![Part 2D](https://github.com/user-attachments/assets/c0f0dacb-5dab-48c4-ae14-389fe10c81c7)
 
@@ -64,6 +72,13 @@ ____
 
 
 ____
+
+
+
+input and confirm a temporary password for the user; check the box for change password at next login; advise the user to log off and on if user is in use
+
+
+check the box "unlock the user's account" if account lockout status text appears as "locked"; click OK
 
 
 
