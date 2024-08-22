@@ -18,7 +18,7 @@ Project consists of searching for users and resetting passwords of the desired u
 <h2>Program walk-through:</h2>
 
 
-press the start menu -> open Windows Administrative Tools -> launch Active Directory Users and Computers: <br/>
+open Windows Administrative Tools and launch Active Directory Users and Computers <br/>
 
 
 ![Part 1](https://github.com/user-attachments/assets/3d955789-5ce1-4789-b1e6-7653585e29ad)
@@ -27,7 +27,7 @@ press the start menu -> open Windows Administrative Tools -> launch Active Direc
 ____
 
 
-Find the location of the user in your domain -> right click user -> reset password:<br/>
+Find the location of the user in your domain and reset password <br/>
 
 <br />
 
@@ -39,7 +39,7 @@ Find the location of the user in your domain -> right click user -> reset passwo
 ____
 
 
-You can also use the search function if you aren't sure which OU the user is in; click the action tab -> click find....
+You can also use the search function if you aren't sure which OU the user is in; click the Action tab -> click Find....
 
 
 
